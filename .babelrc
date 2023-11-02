@@ -1,0 +1,11 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "exclude": ["transform-es2015-unicode-regex"]
+      }
+    ],
+    "stage-3"
+  ]
+}
